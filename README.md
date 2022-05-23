@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ujjwal
 - 👀 I’m interested in Coding 💻
 - 🌱 I’m currently learning Full Stack Web Development
-- 📫 For contact me, create a pull request on Let's_Collaborate repo
+- 📫 For contact me, create a pull request on the repo
 
 <!---
 ujjwalpaul005/ujjwalpaul005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
