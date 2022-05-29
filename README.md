@@ -1,3 +1,6 @@
+![trophy](https://github-profile-trophy.vercel.app/?username=ujjwalpaul005&theme=onedark)
+
+
 - 👋 Hi, I’m Ujjwal
 - 👀 I’m interested in Coding 💻
 - 🌱 I’m currently learning Full Stack Web Development
