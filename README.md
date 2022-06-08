@@ -26,7 +26,8 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=ujjwalpaul005&theme=algolia&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ujjwalpaul005&theme=algolia&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwalpaul005&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwalpaul005&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwalpaul005&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ujjwalpaul005&theme=radical&no-frame=false&no-bg=false&margin-w=4)
