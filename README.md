@@ -32,7 +32,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwalpaul005&langs_count=8&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ujjwalpaul005&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ujjwalpaul005&theme=radical)
+
+<!-- &no-frame=false&no-bg=false&margin-w=4 -->
+
+<!-- &column=3&margin-w=15&margin-h=15 -->
 
 <!-- ### Week Stats
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ujjwalpaul005)](https://github.com/anuraghazra/github-readme-stats) -->
