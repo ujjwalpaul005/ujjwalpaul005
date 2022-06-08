@@ -34,7 +34,10 @@
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ujjwalpaul005&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️Random Dev Quote
+### Week Stats
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ujjwalpaul005)](https://github.com/anuraghazra/github-readme-stats)
+
+#### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
