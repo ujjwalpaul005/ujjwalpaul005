@@ -24,7 +24,7 @@
 
 # 📊GitHub Stats :
 
-![](https://github-readme-stats.vercel.app/api?username=ujjwalpaul005&hide=stars,prs,issues&theme=algolia&hide_border=false&include_all_commits=false&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=ujjwalpaul005&hide=stars,issues&theme=algolia&hide_border=false&include_all_commits=false&count_private=true&show_icons=true)
 <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ujjwalpaul005&theme=algolia&hide_border=false)
 <br/>
