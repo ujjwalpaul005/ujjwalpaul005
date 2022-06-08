@@ -34,6 +34,10 @@
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ujjwalpaul005&theme=radical&column=3&margin-w=15&margin-h=15)
 
+<a href="https://github-profile-trophy.vercel.app/?username=ujjwalpaul005&theme=radical">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=ujjwalpaul005&theme=radical&column=4&margin-w=20&margin-h=15" />
+</a>
+
 
 
 <!-- ### Week Stats
