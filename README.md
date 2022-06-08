@@ -43,6 +43,10 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ujjwalpaul005&icon=10&color=0)](https://visitcount.itsvg.in)
 
+---
+
+![](https://raw.githubusercontent.com/ujjwalpaul005/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+
 
 
 <!---
