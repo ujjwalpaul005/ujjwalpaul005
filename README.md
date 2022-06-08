@@ -38,6 +38,8 @@
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=ujjwalpaul005&theme=radical&column=4&margin-w=20&margin-h=15" />
 </a>
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ujjwalpaul005&hide=stars,issues&theme=algolia&hide_border=false&include_all_commits=false&count_private=true&show_icons=true" />
+
 
 
 <!-- ### Week Stats
