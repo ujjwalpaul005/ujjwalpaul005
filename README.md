@@ -24,7 +24,7 @@
 
 # 📊GitHub Stats :
 
-[![](https://github-readme-stats.vercel.app/api?username=ujjwalpaul005&hide=stars,issues&theme=algolia&hide_border=false&include_all_commits=false&count_private=true&show_icons=true)](https://github-readme-stats.vercel.app/api?username=ujjwalpaul005&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
+[![](https://github-readme-stats.vercel.app/api?username=ujjwalpaul005&hide=issues&theme=algolia&hide_border=false&include_all_commits=false&count_private=true&show_icons=true)](https://github-readme-stats.vercel.app/api?username=ujjwalpaul005&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
 <br/>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ujjwalpaul005&theme=tokyonight_duo&date_format=j%20M%5B%20Y%5D)](http://github-readme-streak-stats.herokuapp.com?user=ujjwalpaul005&theme=tokyonight_duo&date_format=j%20M%5B%20Y%5D)
