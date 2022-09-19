@@ -1,8 +1,8 @@
-<div align="center">
+<!-- <div align="center">
   <a href="https://ujjwalpaul005.github.io/">
   <img  src="https://github.com/ujjwalpaul005/ujjwalpaul005/Img/grid-snake.svg"
        alt="snake" /></a>
-</div>
+</div> -->
 
 
 <h1 align="center">Hi, I'm Ujjwal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
