@@ -1,11 +1,22 @@
-<h1 align="center">Hi, I'm Ujjwal</h1>
-<h3 align="center">A passionate fullstack developer and tech enthusiast from India</h3>
+<div align="center">
+  <a href="https://ujjwalpaul005.github.io/">
+  <img  src="https://github.com/ujjwalpaul005/ujjwalpaul005/Img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
+
+<h1 align="center">Hi, I'm Ujjwal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+<img align="center" width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&center=true&vCenter=true&width=435&lines=Java+Developer;Backend+Developer;Frontend+Developer;Tech+Enthusiast">
+
+
+<img align="right" width="400" src="https://user-images.githubusercontent.com/72302529/191053609-8cce9d90-2808-404f-a7a6-e9be280246d6.png"> 
 # 💫About Me :
 
-- 👀 I’m interested in Coding 💻
-- 🌱 I’m currently learning Full Stack Web Development
-- 📫 For contact me, create a pull request on the repo
+- 👀 I’m interested in keeping some footprint on the Tech World 💻🌐
+- 👨‍💻 I’m currently learning **JAVA, SpringBoot, Hibernet, MySQL**
+- 👯 I’m looking to collaborate on a good project
+- 💬 Ask me about for any help
+- 📫 How to reach me: [![](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ujjwal-paul-204027235/), [![](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:ujjwalpaul005@gmail.com)
 
 
 # 💻Tech Stack
