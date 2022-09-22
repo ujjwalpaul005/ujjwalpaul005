@@ -33,22 +33,18 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
 
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwalpaul005&layout=compact&theme=algolia&hide_border=false&include_all_commits=true&count_private=true" />
+
 # 📊GitHub Stats :
 
-[![](https://github-readme-stats.vercel.app/api?username=ujjwalpaul005&hide=issues&theme=algolia&hide_border=false&include_all_commits=false&count_private=true&show_icons=true)](https://github-readme-stats.vercel.app/api?username=ujjwalpaul005&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
-<br/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=ujjwalpaul005&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ujjwalpaul005&theme=tokyonight_duo&date_format=j%20M%5B%20Y%5D)](http://github-readme-streak-stats.herokuapp.com?user=ujjwalpaul005&theme=tokyonight_duo&date_format=j%20M%5B%20Y%5D)
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwalpaul005&layout=compact&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)](https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwalpaul005&langs_count=8&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)
-
-<!-- &langs_count=8 -->
-
 ## 🏆GitHub Trophies
-[![](https://github-profile-trophy.vercel.app/?username=ujjwalpaul005&theme=radical&column=3&margin-w=15&margin-h=15)](https://github-profile-trophy.vercel.app/?username=ujjwalpaul005&theme=radical&margin-w=15&margin-h=15)
-
-
+<img src="https://github-profile-trophy.vercel.app/?username=ujjwalpaul005&theme=radical&margin-w=15&margin-h=15&column=8" />
 
 
 
@@ -59,7 +55,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-![](https://visitcount.itsvg.in/api?id=ujjwalpaul005&icon=10&color=0)
+<img src="https://visitcount.itsvg.in/api?id=ujjwalpaul005&icon=10&color=0" />
+
 
 
 
