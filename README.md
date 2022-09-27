@@ -19,8 +19,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,js,mysql,html,css,python&theme=dark)]
 
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
+[![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white) ]
+[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)]
 
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwalpaul005&layout=compact&theme=algolia&hide_border=false&include_all_commits=true&count_private=true" /> -->
