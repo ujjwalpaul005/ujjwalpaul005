@@ -17,8 +17,11 @@
 
 # 💻Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=java,js,mysql,html,css,python&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=java,js,mysql,html,css,maven,hibernate,python&theme=dark)
 
+
+# 💻Familier Tools
+![My Tools](https://skillicons.dev/icons?i=git,github,vscode,netlify,bootstrap,heroku&theme=dark)
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
 
