@@ -1,8 +1,4 @@
-<div align="center">
-  <a href="https://ujjwalpaul005.github.io/">
-  <img  src="Img/grid-snake.svg"
-       alt="contribution snake" /></a>
-</div>
+
 
 
 <h1 align="center">Hi, I'm Ujjwal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
@@ -49,10 +45,13 @@
 ## 🏆GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=ujjwalpaul005&theme=radical&margin-w=15&margin-h=15&column=8" />
 
+<div align="center">
+  <a href="https://ujjwalpaul005.github.io/">
+  <img  src="Img/grid-snake.svg"
+       alt="contribution snake" /></a>
+</div>
 
-
-<!-- ### Week Stats
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ujjwalpaul005)](https://github.com/anuraghazra/github-readme-stats) -->
+[![github activity graph](https://activity-graph.herokuapp.com/graph?username=ujjwalpaul005&bg_color=d1edff&color=000000&line=4c8e9e&point=1e00ff&area=true&hide_border=true)](https://activity-graph.herokuapp.com/graph?username=ujjwalpaul005&bg_color=d1edff&color=000000&line=4c8e9e&point=1e00ff&area=true&hide_border=true)
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -60,10 +59,6 @@
 ---
 <img src="https://visitcount.itsvg.in/api?id=ujjwalpaul005&icon=10&color=0" />
 
-
-
-
-![](https://raw.githubusercontent.com/ujjwalpaul005/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
 ### 😇 Show some love by starring⭐ some of my Repository
 
