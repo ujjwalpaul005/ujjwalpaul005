@@ -17,7 +17,7 @@
 
 # 💻Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=java,js,mysql,html,css,maven,hibernate,python&theme=dark&perline=6)
+![My Skills](https://skillicons.dev/icons?i=java,js,mysql,html,css,maven,hibernate,aws,python&theme=dark&perline=6)
 
 
 # 💻Familier Tools
