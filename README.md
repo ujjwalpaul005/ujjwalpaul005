@@ -40,7 +40,7 @@
 <br/>
 
 ## 🏆GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=ujjwalpaul005&theme=radical&margin-w=15&margin-h=15&column=8" />
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ujjwalpaul005&theme=radical&margin-w=15&margin-h=15&column=8)](https://github-profile-trophy.vercel.app/?username=ujjwalpaul005&theme=radical&margin-w=15&margin-h=15&column=8)
 
 <div align="center">
   <a href="https://ujjwalpaul005.github.io/">
