@@ -60,7 +60,7 @@
 <img src="https://visitcount.itsvg.in/api?id=ujjwalpaul005&icon=10&color=0" />
 
 
-### 😇 Show some love by starring⭐ some of my Repository
+### 😇 Show some love by starring⭐ any one Repository
 
 
 <!---
