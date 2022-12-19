@@ -13,7 +13,7 @@
 
 
 - 💬 Ask me about for any help
-- 📫 How to reach me: [![](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ujjwal-paul-204027235/)    [![](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:ujjwalpaul005@gmail.com)
+- 📫 How to reach me: [![](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/ujjwalpaul005)    [![](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:ujjwalpaul005@gmail.com)
 
 
 # 💻Tech Stack
