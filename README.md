@@ -13,8 +13,8 @@
   
 <h3>📫 How to reach me:</h3>
  <p align="left">
-    <a href="https://www.linkedin.com/in/ujjwalpaul005" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/3ab89742-af7f-4693-9af0-b1a65aabcf15" alt="https://www.linkedin.com/in/ujjwalpaul005" width="40" />
-    <a href="mailto:ujjwalpaul005@gmail.com"><img align="center" src="https://github.com/user-attachments/assets/7aeee6b4-0fbb-41ba-9e62-b3be1d5863f8" alt="ujjwalpaul005@gmail.com" width="40" />
+    <a href="https://www.linkedin.com/in/ujjwalpaul005" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/3ab89742-af7f-4693-9af0-b1a65aabcf15" alt="https://www.linkedin.com/in/ujjwalpaul005" width="40"></a>
+    <a href="mailto:ujjwalpaul005@gmail.com"><img align="center" src="https://github.com/user-attachments/assets/7aeee6b4-0fbb-41ba-9e62-b3be1d5863f8" alt="ujjwalpaul005@gmail.com" width="40"></a>
  </p>
 
 # 💻Tech Stack
