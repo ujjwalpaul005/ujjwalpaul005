@@ -10,9 +10,12 @@
 - 👨‍💻 Currently playing with Kotlin and Android development with AI Agents
 - 👯 Always learning and keen to contribute on a world class project
 - 💬 Ask me about my Krishna
-- 📫 How to reach me:
-   [![](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ujjwalpaul005) [![](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ujjwalpaul005@gmail.com)
-
+  
+<h3>📫 How to reach me:</h3>
+   <p align="left">
+      <a href="https://www.linkedin.com/in/ujjwalpaul005" target="blank"><img align="center" src="https://github.com/user-attachments/assets/3ab89742-af7f-4693-9af0-b1a65aabcf15" alt="https://www.linkedin.com/in/ujjwalpaul005" width="40" /></a>
+      <a href="mailto:ujjwalpaul005@gmail.com" target="blank"><img align="center" src="https://github.com/user-attachments/assets/7aeee6b4-0fbb-41ba-9e62-b3be1d5863f8" alt="https://www.linkedin.com/in/ujjwalpaul005" width="40" /></a>
+   </p>
 
 # 💻Tech Stack
 ![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql,mysql,maven,hibernate,gcp,rabbitmq,elasticsearch,firebase,js,html,css,redhat,openshift,jenkins,materialui,py,kotlin&theme=dark&perline=8)
